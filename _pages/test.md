@@ -2,21 +2,26 @@
 layout: archive
 permalink: /test/
 author_profile: true
-title: "Projects"
+title: "工作经历"
 ---
 
-## Predicting the risk of patient death in the ICU
+## 深圳壹基金公益基金会
+### *2022/06 - 至今, 项目管理（实习）*
+**【项目管理】** 负责全国 490+ 固定服务站点的日常运营管理，如部门月度报告撰写、社群伙伴链接 \
+**【内容研发】** 配合各个合作伙伴，研发符合服务需求的相应课程，重点产出线上指导课程
 
-### Time：2021.03-2021.08
-### Partners: General Hospital of the Eastern Theater of the Chinese People's Liberation Army
+## 湖北非营利研究中心
+### *2021/10 - 2022/06, 主任助理（兼职）*
+**【项目组织】** 协助中心主任筹备与执行 7 期湖北基金会沙龙见面会，撰写与整理归档活动文字材料 \
+**【项目执行】** 统筹执行 6 场“菡萏计划”公益人才培养讲座系列，负责活动策划、物资准备、现场执行等
 
-The project analyzes data on multiple time-series characteristics of patients and predicts the risk of patient death by building machine learning models to assist doctors in diagnosis and treatment.
+## 武汉惠人社会工作服务中心
+### *2021/10 - 2022/06, 项目专员（兼职）*
+**【评估经验】** 参与 2021 年度武汉市社会组织等级评估，以及参加多个社会组织的项目评估（中期、末期）\
+**【项目申报】** 负责筛选各大基金会适合的申请项目，撰写项目申报书，累计申报 10 余个公益项目
 
-## ICD Classification System
-
-### Time: 2021.06-2022.02
-### Partners: China National New Health (CRHS)
-
-The project is oriented to mapping disease names to corresponding international ICD codes for very large scale text data (millions of labeled data and millions of unlabeled data).
-
+## 四川眉山益家亲社会工作服务中心
+### *2020/12 - 2021/03, 项目助理（毕业实习）*
+【乡镇走访】 负责市级儿童关爱服务项目，走访评估 17 个试点乡镇，累计开展 8 次规模化的儿童关爱活动 \
+【志愿者管理】 招募与培训志愿者 40 余人，负责志愿者队伍的日常管理与服务发展
 

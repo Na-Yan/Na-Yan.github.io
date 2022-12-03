@@ -8,21 +8,16 @@ redirect_from:
 
 {% include base_path %}
 
-Competitions
+竞赛
 ======
-* "Huawei Cup" Intelligent Student Design Competition - **National Second Prize**
-* APMCM Asia-Pacific Student Mathematical Modeling Competition - **Second Prize in Asia-Pacific Region**
-* Universities and Colleges Computer Proficiency Challenge - **National Second Prize**
-* University Bio-Net Design Competition - **Provincial First Prize**
-* "Internet+" Student Innovation and Entrepreneurship Competition - **Third Prize in CSU**
-* College Student Programming Competition - **Third Prize in CSU**
+* 2019 年“互联网 +”大学生创新创业大赛 **校级一等奖**
+* 2022 年公益创投大赛 **校级二等奖**
 
-Honors
+证书
 ======
-* First class scholarship for the academic year. *in 2018,2019,2020 at CSU*
-* Outstanding Students. *in 2018,2019,2020 at CSU*
-* Outstanding Graduating Students. *in 2021 at CSU*
-* National Scholarship. *in 2022 at NJU*
-* First class scholarship for the academic year. *in 2022 at NJU*
+* 助理社会工作师证书
+* 高中教师资格证（思想政治）
+* 英语六级
+
 
 
