@@ -6,10 +6,10 @@ main:
   #- title: "Projects"
   #  url: /talks/
 
-  - title: "Publications"
+  - title: "项目经历"
     url: /pub/
 
-  - title: "Projects"
+  - title: "工作经验"
     url: /test/
     
   #- title: "Projects"
@@ -24,7 +24,7 @@ main:
   #- title: "Blog"
   #  url: /year-archive/
     
-  - title: "Awards"
+  - title: "荣誉证书"
     url: /cv/
 
 
