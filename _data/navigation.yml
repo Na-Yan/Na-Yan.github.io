@@ -1,0 +1,32 @@
+# main links links
+main:
+  #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Projects"
+  #  url: /talks/
+
+  - title: "Publications"
+    url: /pub/
+
+  - title: "Projects"
+    url: /test/
+    
+  #- title: "Projects"
+  #  url: /projects/
+
+  #- title: "Software"
+  #  url: /software/
+    
+  #- title: "Teaching"
+  #  url: /teaching/
+    
+  #- title: "Blog"
+  #  url: /year-archive/
+    
+  - title: "Awards"
+    url: /cv/
+
+
+  # - title: "Group"
+  #   url: /people/
